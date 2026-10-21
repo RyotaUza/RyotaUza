@@ -11,4 +11,4 @@ J-GLOBAL: <br>
 ORCID: <br>
 X (Twitter): <br>
 YouTube: <br>
-Note:On X and YouTube, I share content under the name "[理工学]おぷてぃ丸 optimal".
+Note: On X and YouTube, I share content under the name "[理工学]おぷてぃ丸 optimal".
