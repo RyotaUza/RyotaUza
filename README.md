@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello! My name is **Ryota Uza**.
 
-<!--
-**RyotaUza/RyotaUza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a master's student in the Department of Mechanical Systems Engineering, Graduate School of Science and Engineering, Nanzan University, Japan.
 
-Here are some ideas to get you started:
+Starting in April 2027, I will be a doctoral student in the Department of Mechanical Engineering, Graduate School of Engineering, Nagoya University, Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary research interests are Control Engineering and Autonomous Driving.
+
+researchmap: 
+J-GLOBAL:
+ORCID:
+X (Twitter):
+YouTube:
+Note:On X and YouTube, I share content under the name "[理工学]おぷてぃ丸 optimal".
